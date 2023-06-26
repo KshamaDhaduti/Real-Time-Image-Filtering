@@ -1,1 +1,1 @@
-# Real-Time-Image-Filtering
+This project showcases my journey in learning OpenCV and its packages. I implemented key tasks like image reading, display, live video capture, grayscale conversion, blur filters, edge detection, gradient magnitude generation, and diverse image effects. The project leverages OpenCV's C++ interface, emphasizing real-time responsiveness and optimal performance. It was an enjoyable experience exploring the world of image processing through various filters.
